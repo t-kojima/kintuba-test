@@ -1,0 +1,23 @@
+{
+  "name": "kintuba-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:t-kojima/kintuba-test.git",
+  "author": "t-kojima <t-kojima@skullware.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.1",
+    "karma": "^2.0.4",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-cli": "^1.0.1",
+    "karma-kintuba": "^1.0.0",
+    "karma-mocha": "^1.3.0",
+    "karma-mocha-reporter": "^2.2.5",
+    "kintuba": "^0.9.5",
+    "mocha": "^5.2.0",
+    "prettier": "^1.13.7"
+  }
+}
