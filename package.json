@@ -6,6 +6,9 @@
   "author": "t-kojima <t-kojima@skullware.net>",
   "license": "MIT",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
     "chai": "^4.1.2",
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.6.1",
@@ -20,8 +23,11 @@
     "karma-mocha": "^1.3.0",
     "karma-mocha-reporter": "^2.2.5",
     "karma-phantomjs-launcher": "^1.0.4",
+    "karma-polyfill": "^1.0.0",
+    "karma-webpack": "^3.0.0",
     "kintuba": "^0.9.5",
     "mocha": "^5.2.0",
-    "prettier": "^1.13.7"
+    "prettier": "^1.13.7",
+    "webpack": "^4.15.1"
   }
 }
